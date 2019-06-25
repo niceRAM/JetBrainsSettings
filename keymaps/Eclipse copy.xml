@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ChangesView.SetDefault" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+</keymap>
