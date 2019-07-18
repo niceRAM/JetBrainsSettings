@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="* Retrieves the instrument for the block and tile entity in the given World and BlockPos, relative to the * consumer's World and BlockPos. This method is used for inter-world instrument retrieval." />
+      <item value="Retrieves the instrument for the block and tile entity in the given World and BlockPos, relative to the * consumer's World and BlockPos. This method is used for inter-world instrument retrieval." />
+      <item value="consumer" />
+      <item value="param" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="PORTUGUESE" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
