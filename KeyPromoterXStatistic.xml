@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="GoTo">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F3'</ShortCut>
+          <Description>GoTo</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste without Formatting">
         <Item>
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
@@ -22,6 +30,14 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
