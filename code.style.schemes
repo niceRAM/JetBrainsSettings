@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <Python>
+          <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
+          <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+        </Python>
+        <codeStyleSettings language="Python">
+          <option name="RIGHT_MARGIN" value="80" />
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
