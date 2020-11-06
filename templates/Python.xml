@@ -1,0 +1,5 @@
+<templateSet group="Python">
+  <template name="date" value="$date$" description="yyyy/MM/dd" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
