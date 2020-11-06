@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="nbt" type="Native" />
+      <mapping pattern="samlpe_text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
