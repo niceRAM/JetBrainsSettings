@@ -20,4 +20,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="alt x" second-keystroke="alt p" />
+  </action>
 </keymap>
