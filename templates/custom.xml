@@ -5,4 +5,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="me" value="Author: $name$" description="Author: niceRAM" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="user()" defaultValue="niceRAM" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
