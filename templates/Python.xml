@@ -1,3 +1,10 @@
 <templateSet group="Python">
   <template name="main" value="if __name__ == &quot;__main__&quot;:&#10;    $END$" description="if __name__ == '__main__'" toReformat="false" toShortenFQNames="true" />
+  <template name="super3" value="super().$method$($end$)" description="'super(...)' call" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="pyFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
 </templateSet>
