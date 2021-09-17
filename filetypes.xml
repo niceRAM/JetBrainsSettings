@@ -5,6 +5,7 @@
       <mapping ext="nbt" type="Native" />
       <mapping pattern="samlpe_text" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping pattern=".style.yapf" type="TOML" />
     </extensionMap>
   </component>
 </application>
