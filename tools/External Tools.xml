@@ -9,7 +9,7 @@
   <tool name="yapf" description="yapf as an external tool" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="F:\code\1-python-env\999-venv\miniconda\envs\common\Scripts\yapf.exe" />
-      <option name="PARAMETERS" value="-i $FilePath$ " />
+      <option name="PARAMETERS" value="-i --style google $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

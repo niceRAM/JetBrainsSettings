@@ -3,6 +3,7 @@
     <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
